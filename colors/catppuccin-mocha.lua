@@ -1,15 +1,15 @@
 local style = require "core.style"
 local common = require "core.common"
-style.background = { common.color "#1e1e2e" } --done
-style.background2 = { common.color "#181825" } --done
-style.background3 = { common.color "#313244" } --done
-style.text = { common.color "#cdd6f4" } --done
-style.caret = { common.color "#f5e0dc" } --done
-style.accent = { common.color "#cba6f7" } --done
-style.dim = { common.color "#bac2de" } --done
-style.divider = { common.color "#cba6f7" } --done
-style.selection = { common.color "#585b70" } --done
-style.line_number = { common.color "#6c7086" } --done
+style.background = { common.color "#1e1e2e" }
+style.background2 = { common.color "#181825" }
+style.background3 = { common.color "#313244" }
+style.text = { common.color "#cdd6f4" }
+style.caret = { common.color "#f5e0dc" }
+style.accent = { common.color "#cba6f7" }
+style.dim = { common.color "#bac2de" }
+style.divider = { common.color "#cba6f7" }
+style.selection = { common.color "#585b70" }
+style.line_number = { common.color "#6c7086" }
 style.line_number2 = { common.color "#cba6f7" }
 style.line_highlight = { common.color "#313244" }
 style.scrollbar = { common.color "#585b70" }
@@ -25,5 +25,3 @@ style.syntax["literal"] = { common.color "#b4befe" }
 style.syntax["string"] = { common.color "#a6e3a1" }
 style.syntax["operator"] = { common.color "#89dceb" }
 style.syntax["function"] = { common.color "#89b4fa" }
-
-

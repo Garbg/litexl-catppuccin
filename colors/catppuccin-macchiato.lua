@@ -15,6 +15,7 @@ style.line_number2 = { common.color "#c6a0f6" }
 style.line_highlight = { common.color "#363a4f" }
 style.scrollbar = { common.color "#5b6078" }
 style.scrollbar2 = { common.color "#6e738d" }
+style.scrollbar_track = { common.color "#1e2030" }
 
 style.syntax["normal"] = { common.color "#ed8796" }
 style.syntax["symbol"] = { common.color "#b7bdf8" }

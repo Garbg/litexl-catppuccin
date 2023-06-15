@@ -14,6 +14,7 @@ style.line_number2 = { common.color "#cba6f7" } -- mauve
 style.line_highlight = { common.color "#313244" } -- surface0
 style.scrollbar = { common.color "#585b70" } -- surface2
 style.scrollbar2 = { common.color "#6c7086" } -- overlay0
+style.scrollbar_track = { common.color "#181825" } -- mantle
 
 style.syntax["normal"] = { common.color "#f38ba8" } -- red
 style.syntax["symbol"] = { common.color "#b4befe" } -- lavender

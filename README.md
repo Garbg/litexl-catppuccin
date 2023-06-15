@@ -18,9 +18,8 @@
 <!-- <img src="assets/latte.webp"/> -->
 </details>
 <details>
-<summary>🪴 Frappé (Not made yet)</summary>
-<p>The Frappé theme is not made yet</p>
-<!-- <img src="assets/frappe.webp"/> -->
+<summary>🪴 Frappé</summary>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>

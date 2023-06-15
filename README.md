@@ -7,13 +7,14 @@
 
 <p align="center">
 	<img src="assets/mocha.webp">
+    <p style="text-align: center;">(Mocha screenshot)</p>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte (Not made yet)</summary>
-  <p>The Latte theme is not done yet</p>
+  <p>The Latte theme is not made yet</p>
 <!-- <img src="assets/latte.webp"/> -->
 </details>
 <details>
@@ -22,9 +23,8 @@
 <!-- <img src="assets/frappe.webp"/> -->
 </details>
 <details>
-<summary>🌺 Macchiato (Not made yet)</summary>
-<p>The Macchiato theme is not done yet</p>
-<!-- <img src="assets/macchiato.webp"/> -->
+<summary>🌺 Macchiato</summary>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>

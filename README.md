@@ -6,16 +6,14 @@
 </h3>
 
 <p align="center">
-	<img src="assets/mocha.webp">
-    <p style="text-align: center;">(Mocha screenshot)</p>
+	<img src="assets/preview.webp">
 </p>
 
 ## Previews
 
 <details>
-<summary>🌻 Latte (Not made yet)</summary>
-  <p>The Latte theme is not made yet</p>
-<!-- <img src="assets/latte.webp"/> -->
+<summary>🌻 Latte</summary>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>

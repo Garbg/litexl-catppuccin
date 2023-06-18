@@ -36,10 +36,10 @@ To install a color scheme, drop the `catppuccin-<theme>.lua` file from the color
 *   MacOS `~/.config/lite-xl/colors/`
 *   Windows `C:\Users\(username)\.config\lite-xl\colors\`
 
-Then, add a call to `core.reload_module` to your user module (the gear in the bottom left corner). As an example, if you installed the `catppuccin_mocha.lua` file into your colors folder, you'd load it with:
+Then, add a call to `core.reload_module` to your user module (the gear in the bottom left corner). As an example, if you installed the `catppuccin-mocha.lua` file into your colors folder, you'd load it with:
 
 ```lua
-core.reload_module("colors.catppuccin_mocha")
+core.reload_module("colors.catppuccin-mocha")
 ```
 
 
